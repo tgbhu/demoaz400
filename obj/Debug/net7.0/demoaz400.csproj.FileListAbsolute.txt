@@ -1,0 +1,15 @@
+/Users/tamaspinter/temp/demoaz400/bin/Debug/net7.0/demoaz400
+/Users/tamaspinter/temp/demoaz400/bin/Debug/net7.0/demoaz400.deps.json
+/Users/tamaspinter/temp/demoaz400/bin/Debug/net7.0/demoaz400.runtimeconfig.json
+/Users/tamaspinter/temp/demoaz400/bin/Debug/net7.0/demoaz400.dll
+/Users/tamaspinter/temp/demoaz400/bin/Debug/net7.0/demoaz400.pdb
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.csproj.AssemblyReference.cache
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.AssemblyInfoInputs.cache
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.AssemblyInfo.cs
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.csproj.CoreCompileInputs.cache
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.dll
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/refint/demoaz400.dll
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.pdb
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/demoaz400.genruntimeconfig.cache
+/Users/tamaspinter/temp/demoaz400/obj/Debug/net7.0/ref/demoaz400.dll
